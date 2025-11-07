@@ -1,0 +1,1 @@
+python main.py --n_GPUs 1 --model sfmn --lr 2e-4 --save sfmn_its --patch_size 256 --batch_size 16 --loss 1*L1 --lr_decay 230
